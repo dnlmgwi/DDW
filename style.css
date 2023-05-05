@@ -1,0 +1,28 @@
+/* This is
+a multi-line
+comment
+
+I am changing the background colour of the document body
+
+*/
+body {
+  background-color: black;
+  font-family: sans-serif;
+  padding: 3rem;
+}
+
+h1 {
+  color: #cecece;
+}
+
+h2,
+h3 {
+  color: #cecece;
+}
+
+p {
+  color: #cecece;
+  text-align: left;
+  font-size: 0.9rem;
+  user-select: none;
+}
