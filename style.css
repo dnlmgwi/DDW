@@ -11,6 +11,10 @@ body {
   padding: 3rem;
 }
 
+a {
+  padding: 0.5rem;
+}
+
 h1 {
   color: #cecece;
 }
